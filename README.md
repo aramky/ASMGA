@@ -1,5 +1,5 @@
 # ASMGA: Alternated Sorting Method Genetic Algorithm
-**Language: Python 2.7**
+**Language: Python 3.7**
 
 ASMGA is hybrid wrapper-filter algorithm for feature and model selection for Support Vector Machine (SVM) classifiers. Theoritical background and detailed development of ASMGA can be found in Aram (2021).
 Three objectives are considered: cost-sensitive error rate, feature subset size, and feature importance in terms of relevance and redundancy. 
