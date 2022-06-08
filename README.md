@@ -15,8 +15,15 @@ The chart below shows the main steps of the proposed ASMGA.
 ![image](https://user-images.githubusercontent.com/57454095/172543282-334c7c50-1892-4e57-910a-1760a939ed1c.png)
 
 
-References:
+**References:**
 
 Aram, K. Y. A. (2021). Max-margin cost-sensitive feature selection for support vector machines (Order No. 28542293). Available from ProQuest Dissertations & Theses Global.
 
 Aram, K. Y., Lam, S. S., & Khasawneh, M. T. (2022). Linear Cost-sensitive Max-margin Embedded Feature Selection for SVM. Expert Systems with Applications, 197, 116683.
+
+
+Inquiries can be sent to:
+
+Khalid Aram, PhD
+
+karam@emporia.edu
