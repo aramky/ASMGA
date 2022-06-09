@@ -1,5 +1,10 @@
 # ASMGA: Alternated Sorting Method Genetic Algorithm
-**Language: Python 3.7**
+
+**Language:** Python 3.7
+
+**Contents:**
+ - Main ASMGA code
+ - Datasets (text files)
 
 ASMGA is hybrid wrapper-filter algorithm for feature and model selection for Support Vector Machine (SVM) classifiers. Theoritical background and detailed development of ASMGA can be found in Aram (2021).
 Three objectives are considered: cost-sensitive error rate, feature subset size, and feature importance in terms of relevance and redundancy. 
@@ -10,7 +15,7 @@ KS-MMFS provide estimates of feature importance based on relevance and redundanc
 A mix of random and biased solutions is used in the initial population. 
 ASMGA includes a strategy that alternates between WS and NDS. Thus, the algorithm works as elitist GA for some generations and as a Non-dominated Sorting Genetic Algorithm (NSGA-II) for the remaining generations. 
 This strategy relies on a schedule of sorting methods, by which, a user can define deploy different sorting methods per different sequences of generations. 
-The chart below shows the main steps of the proposed ASMGA. 
+The chart below shows the main steps of ASMGA.
 
 ![image](https://user-images.githubusercontent.com/57454095/172543282-334c7c50-1892-4e57-910a-1760a939ed1c.png)
 
@@ -22,7 +27,7 @@ Aram, K. Y. A. (2021). Max-margin cost-sensitive feature selection for support v
 Aram, K. Y., Lam, S. S., & Khasawneh, M. T. (2022). Linear Cost-sensitive Max-margin Embedded Feature Selection for SVM. Expert Systems with Applications, 197, 116683.
 
 
-Inquiries can be sent to:
+**Inquiries can be sent to:**
 
 Khalid Aram, PhD
 
