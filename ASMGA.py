@@ -389,10 +389,12 @@ def stability(sols):
    
 def main():
     
-    dataset_names = ['Leukemia', 'Mfeat', 'Musk', 'Biodeg', 'Yeast', 'Housing', 'Isolet']
+    dataset_names = ['Leukemia', 'Mfeat', 'Musk', 'Biodeg', 'Chess', 'Yeast', 
+                     'Housing', 'Isolet', 'Hepatitis', 'Heart Failure', 'SPECT Heart']
     datasets = ['Leukemia.txt', 'Mfeat.txt', 'Musk.txt',
-                'Biodeg.txt', 'Yeast.txt',
-                'Housing.txt', 'Isolet.txt']
+                'Biodeg.txt', 'Chess.txt', 'Yeast.txt', 'Housing.txt', 
+                'Isolet.txt', 'Hepatitis.txt', 'Heart_Failure.txt', 
+                'SPECT_Heart.txt']
 
     pop_sizes = [200, 75, 50, 50, 50, 50, 75]
     gens = [400, 150, 100, 100, 100, 100, 150]#152 used to avoid fractions in sorting method schedule
