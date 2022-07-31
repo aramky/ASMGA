@@ -6,10 +6,7 @@
  - Main ASMGA code
  - Datasets (text files)
 
-ASMGA is a multi-objective hybrid wrapper-filter algorithm for feature and model selection for binary Support Vector Machine (SVM) classifiers. Theoritical background and detailed development of ASMGA can be found in Aram (2021).
-ASMGA hybrid uses two multi-objective sorting techniques: Weighted Sum (WS) of objectives and Non-dominated Sorting (NDS) in the breeding process. 
- 
-ASMGA includes a strategy that alternates between WS and NDS. Thus, the algorithm works as elitist GA for some generations and as a Non-dominated Sorting Genetic Algorithm (NSGA-II) for the remaining generations. 
+ASMGA is a multi-objective hybrid wrapper-filter feature selection algorithm. Theoritical background and detailed development of ASMGA can be found in Aram (2021).
  
 The chart below shows the main steps of ASMGA.
 
