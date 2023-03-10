@@ -6,7 +6,7 @@
  - Main ASMGA code
  - Datasets (text files)
 
-ASMGA is a multi-objective hybrid wrapper-filter feature selection algorithm. Theoritical background and detailed development of ASMGA can be found in Aram (2021).
+ASMGA is a multi-objective hybrid wrapper-filter feature selection algorithm. Theoritical background and detailed development of ASMGA can be found in Aram et al. (2023).
  
 The chart below shows the main steps of ASMGA.
 
@@ -15,7 +15,7 @@ The chart below shows the main steps of ASMGA.
 
 **References:**
 
-Aram, K. Y. A. (2021). Max-margin cost-sensitive feature selection for support vector machines (Order No. 28542293). Available from ProQuest Dissertations & Theses Global.
+Aram, K. Y., Lam, S. S., & Khasawneh, M. T. (2023). Cost-sensitive max-margin feature selection for SVM using alternated sorting method genetic algorithm. Knowledge-Based Systems, 110421.
 
 **Inquiries can be sent to:**
 
